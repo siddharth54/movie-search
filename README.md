@@ -1,1 +1,1 @@
-# machine-test-react
+# movie-search project using Vite and React
